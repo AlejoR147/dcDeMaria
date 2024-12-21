@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo desarrollar una plataforma digital para la ven
    
    git clone https://github.com/Mayderking/front_tecno.git
   
-3. **Crear y activar entorno virtual (opcional)**:
+2. **Comandos**:
    
    ```bash
    npm i react-router-dom react-hot-toast axios react-hook-form
