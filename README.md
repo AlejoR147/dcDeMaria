@@ -33,6 +33,7 @@ Este proyecto tiene como objetivo desarrollar una plataforma digital para la ven
 
 
 3. **Iniciar el servidor**
+   
    ```bash
     npm run dev
 
